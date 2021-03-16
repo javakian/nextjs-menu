@@ -1,4 +1,4 @@
-# Next.js Crash Course Project
+# Next.js Crash Course Project - BaseBuild with menu to two pages
 
 Project from my Next.js crash course on YouTube
 
